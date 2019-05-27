@@ -1,0 +1,73 @@
+29.04.2019 17:34:05 Initializing PLC... 
+29.04.2019 17:34:05 UI initialized 
+29.04.2019 17:34:05 Model initilalized 
+29.04.2019 17:34:05 DAQ module initialized 
+29.04.2019 17:34:05 LOG module initialized 
+29.04.2019 17:34:05 TCP module initialized 
+29.04.2019 17:34:05 PLC initialization successful! 
+29.04.2019 17:34:44 Liquid level overflow! 
+29.04.2019 17:34:53 No connection - data not sent! 
+29.04.2019 17:34:53 Another barrel filled 
+29.04.2019 17:35:33 DAQ channels updated 
+29.04.2019 17:36:28 DAQ channels updated 
+29.04.2019 17:41:59 DAQ channels updated 
+29.04.2019 17:42:38 Line has been powered 
+29.04.2019 17:43:03 DAQ channels updated 
+29.04.2019 17:43:31 No power! 
+29.04.2019 17:43:34 Line has been powered 
+29.04.2019 17:43:35 No power! 
+29.04.2019 17:43:36 Line has been powered 
+29.04.2019 17:43:37 No power! 
+29.04.2019 17:43:38 Line has been powered 
+29.04.2019 17:43:38 No power! 
+29.04.2019 17:43:40 Line has been powered 
+29.04.2019 17:43:40 No power! 
+29.04.2019 17:43:42 Line has been powered 
+29.04.2019 17:44:25 No power! 
+29.04.2019 17:44:26 Line has been powered 
+29.04.2019 17:44:35 Starting process... 
+29.04.2019 17:44:35 Process has started 
+29.04.2019 17:44:44 Liquid level overflow! 
+29.04.2019 17:44:46 No connection - data not sent! 
+29.04.2019 17:44:46 Another barrel filled 
+29.04.2019 17:45:00 Liquid level overflow! 
+29.04.2019 17:45:08 No connection - data not sent! 
+29.04.2019 17:45:08 Another barrel filled 
+29.04.2019 17:45:23 Another barrel filled 
+29.04.2019 17:45:23 No connection - data not sent! 
+29.04.2019 17:45:49 Another barrel filled 
+29.04.2019 17:45:49 No connection - data not sent! 
+29.04.2019 17:46:22 No connection - data not sent! 
+29.04.2019 17:46:22 Another barrel filled 
+29.04.2019 17:46:35 Liquid level overflow! 
+29.04.2019 17:46:37 No power! 
+29.04.2019 17:46:40 Line has been powered 
+29.04.2019 17:46:41 No power! 
+29.04.2019 17:46:43 Line has been powered 
+29.04.2019 17:46:48 No power! 
+29.04.2019 17:46:51 Line has been powered 
+29.04.2019 17:47:11 Liquid level overflow! 
+29.04.2019 17:47:13 Another barrel filled 
+29.04.2019 17:47:13 No connection - data not sent! 
+29.04.2019 17:47:41 Liquid level overflow! 
+29.04.2019 17:47:42 No connection - data not sent! 
+29.04.2019 17:47:42 Another barrel filled 
+29.04.2019 17:48:10 Another barrel filled 
+29.04.2019 17:48:10 No connection - data not sent! 
+29.04.2019 17:48:21 Another barrel filled 
+29.04.2019 17:48:21 No connection - data not sent! 
+29.04.2019 17:48:24 No power! 
+29.04.2019 17:49:17 Line has been powered 
+29.04.2019 17:52:00 DAQ channels updated 
+29.04.2019 17:52:10 Starting process... 
+29.04.2019 17:52:10 Process has started 
+29.04.2019 17:52:20 No connection - data not sent! 
+29.04.2019 17:52:20 Another barrel filled 
+29.04.2019 17:52:28 DAQ channels updated 
+29.04.2019 17:55:04 Closing PLC... 
+29.04.2019 17:55:04 Model closed 
+29.04.2019 17:55:04 DAQ module closed 
+29.04.2019 17:55:04 LOG module closed 
+29.04.2019 17:55:04 TCP module closed 
+29.04.2019 17:55:04 PLC shutdown successful! 
+29.04.2019 17:55:04 Application quits 

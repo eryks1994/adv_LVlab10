@@ -1,0 +1,146 @@
+27.05.2019 18:39:44 Initializing PLC... 
+27.05.2019 18:39:44 UI initialized 
+27.05.2019 18:39:44 Model initilalized 
+27.05.2019 18:39:44 DAQ module initialized 
+27.05.2019 18:39:44 LOG module initialized 
+27.05.2019 18:39:44 TCP module initialized 
+27.05.2019 18:39:44 PLC initialization successful! 
+27.05.2019 18:40:00 No connection - data not sent! 
+27.05.2019 18:40:00 Another barrel filled 
+27.05.2019 18:40:16 No connection - data not sent! 
+27.05.2019 18:40:16 Another barrel filled 
+27.05.2019 18:40:29 Another barrel filled 
+27.05.2019 18:40:29 No connection - data not sent! 
+27.05.2019 18:40:38 No connection - data not sent! 
+27.05.2019 18:40:38 Another barrel filled 
+27.05.2019 18:40:44 No connection - data not sent! 
+27.05.2019 18:40:44 Another barrel filled 
+27.05.2019 18:40:51 Another barrel filled 
+27.05.2019 18:40:51 No connection - data not sent! 
+27.05.2019 18:40:56 No connection - data not sent! 
+27.05.2019 18:40:56 Another barrel filled 
+27.05.2019 18:41:02 No connection - data not sent! 
+27.05.2019 18:41:02 Another barrel filled 
+27.05.2019 18:41:14 Stopping process... 
+27.05.2019 18:41:14 Process has stoped 
+27.05.2019 18:41:20 Closing PLC... 
+27.05.2019 18:41:20 Model closed 
+27.05.2019 18:41:20 DAQ module closed 
+27.05.2019 18:41:20 LOG module closed 
+27.05.2019 18:41:20 TCP module closed 
+27.05.2019 18:41:20 PLC shutdown successful! 
+27.05.2019 18:41:20 Application quits 
+27.05.2019 18:41:24 Initializing PLC... 
+27.05.2019 18:41:24 UI initialized 
+27.05.2019 18:41:24 Model initilalized 
+27.05.2019 18:41:24 DAQ module initialized 
+27.05.2019 18:41:24 LOG module initialized 
+27.05.2019 18:41:24 TCP module initialized 
+27.05.2019 18:41:24 PLC initialization successful! 
+27.05.2019 18:43:24 Starting process... 
+27.05.2019 18:43:24 Process has started 
+27.05.2019 18:43:33 No connection - data not sent! 
+27.05.2019 18:43:33 Another barrel filled 
+27.05.2019 18:47:24 Initializing PLC... 
+27.05.2019 18:47:24 UI initialized 
+27.05.2019 18:47:24 Model initilalized 
+27.05.2019 18:47:24 DAQ module initialized 
+27.05.2019 18:47:24 LOG module initialized 
+27.05.2019 18:47:24 TCP module initialized 
+27.05.2019 18:47:24 PLC initialization successful! 
+27.05.2019 18:47:29 Starting process... 
+27.05.2019 18:47:30 Process has started 
+27.05.2019 18:49:46 Initializing PLC... 
+27.05.2019 18:49:57 UI initialized 
+27.05.2019 18:49:57 Model initilalized 
+27.05.2019 18:49:58 DAQ module initialized 
+27.05.2019 18:49:58 LOG module initialized 
+27.05.2019 18:49:58 TCP module initialized 
+27.05.2019 18:49:59 PLC initialization successful! 
+27.05.2019 18:50:14 Starting process... 
+27.05.2019 18:50:14 Process has started 
+27.05.2019 18:50:38 Stopping process... 
+27.05.2019 18:50:38 Process has stoped 
+27.05.2019 18:50:39 Closing PLC... 
+27.05.2019 18:50:39 Model closed 
+27.05.2019 18:50:39 DAQ module closed 
+27.05.2019 18:50:39 LOG module closed 
+27.05.2019 18:50:39 TCP module closed 
+27.05.2019 18:50:39 PLC shutdown successful! 
+27.05.2019 18:50:39 Application quits 
+27.05.2019 18:51:04 Initializing PLC... 
+27.05.2019 18:51:04 UI initialized 
+27.05.2019 18:51:04 Model initilalized 
+27.05.2019 18:51:04 DAQ module initialized 
+27.05.2019 18:51:04 LOG module initialized 
+27.05.2019 18:51:04 TCP module initialized 
+27.05.2019 18:51:04 PLC initialization successful! 
+27.05.2019 18:51:10 Starting process... 
+27.05.2019 18:51:10 Process has started 
+27.05.2019 18:51:19 Another barrel filled 
+27.05.2019 18:51:19 No connection - data not sent! 
+27.05.2019 18:51:35 Initializing PLC... 
+27.05.2019 18:52:03 Initializing PLC... 
+27.05.2019 18:54:45 UI initialized 
+27.05.2019 18:54:46 Initializing PLC... 
+27.05.2019 18:54:47 Model initilalized 
+27.05.2019 18:54:48 DAQ module initialized 
+27.05.2019 18:54:49 LOG module initialized 
+27.05.2019 18:54:51 TCP module initialized 
+27.05.2019 18:54:51 PLC initialization successful! 
+27.05.2019 18:55:11 Starting process... 
+27.05.2019 18:55:15 Process has started 
+27.05.2019 18:55:27 Another barrel filled 
+27.05.2019 18:55:30 No connection - data not sent! 
+27.05.2019 18:57:02 Liquid level overflow! 
+27.05.2019 18:57:39 No connection - data not sent! 
+27.05.2019 18:57:42 Another barrel filled 
+27.05.2019 18:57:58 Stopping process... 
+27.05.2019 18:58:01 Process has stoped 
+27.05.2019 19:02:56 Initializing PLC... 
+27.05.2019 19:02:57 UI initialized 
+27.05.2019 19:02:58 Model initilalized 
+27.05.2019 19:02:59 DAQ module initialized 
+27.05.2019 19:03:00 LOG module initialized 
+27.05.2019 19:03:01 TCP module initialized 
+27.05.2019 19:03:02 PLC initialization successful! 
+27.05.2019 19:03:11 Starting process... 
+27.05.2019 19:03:15 Process has started 
+27.05.2019 19:03:33 Another barrel filled 
+27.05.2019 19:03:35 No connection - data not sent! 
+27.05.2019 19:03:42 Stopping process... 
+27.05.2019 19:05:18 Initializing PLC... 
+27.05.2019 19:05:18 UI initialized 
+27.05.2019 19:05:18 Model initilalized 
+27.05.2019 19:05:18 DAQ module initialized 
+27.05.2019 19:05:18 LOG module initialized 
+27.05.2019 19:05:18 TCP module initialized 
+27.05.2019 19:05:18 PLC initialization successful! 
+27.05.2019 19:05:28 Starting process... 
+27.05.2019 19:05:28 Process has started 
+27.05.2019 19:05:43 No connection - data not sent! 
+27.05.2019 19:05:43 Another barrel filled 
+27.05.2019 19:05:59 No connection - data not sent! 
+27.05.2019 19:05:59 Another barrel filled 
+27.05.2019 19:06:02 Stopping process... 
+27.05.2019 19:06:02 Process has stoped 
+27.05.2019 19:09:59 Starting process... 
+27.05.2019 19:09:59 Process has started 
+27.05.2019 19:10:13 Liquid level overflow! 
+27.05.2019 19:10:19 No connection - data not sent! 
+27.05.2019 19:10:19 Another barrel filled 
+27.05.2019 19:10:33 Liquid level overflow! 
+27.05.2019 19:10:35 Another barrel filled 
+27.05.2019 19:10:36 No connection - data not sent! 
+27.05.2019 19:10:46 Liquid level overflow! 
+27.05.2019 19:10:59 No connection - data not sent! 
+27.05.2019 19:10:59 Another barrel filled 
+27.05.2019 19:11:04 Stopping process... 
+27.05.2019 19:11:05 Process has stoped 
+27.05.2019 19:12:45 Closing PLC... 
+27.05.2019 19:12:45 Model closed 
+27.05.2019 19:12:45 DAQ module closed 
+27.05.2019 19:12:45 LOG module closed 
+27.05.2019 19:12:45 TCP module closed 
+27.05.2019 19:12:45 PLC shutdown successful! 
+27.05.2019 19:12:45 Application quits 
